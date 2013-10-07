@@ -1,2 +1,1 @@
-goto_aarhus_2013
-================
+Notes from the Goto Conference in Aarhus 2013
