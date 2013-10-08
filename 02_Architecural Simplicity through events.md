@@ -14,7 +14,7 @@ Axioms
 Simplicity
 ----------
 * Simple software is sw which can change/adapt to changing requirements
-** This does specifically *not* mean sw which is so configurable to be adaptable to 'all possible' requirements during runtime!
+  - This does specifically *not* mean sw which is so configurable to be adaptable to 'all possible' requirements during runtime!
 * Why do we don't write simple sw?
-** constant change in requirements
-** Bored by business problems?
+  - constant change in requirements
+  - Bored by business problems?
